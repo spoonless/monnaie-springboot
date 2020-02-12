@@ -12,7 +12,7 @@
 	<groupId>fr.epsi.atlas</groupId>
 	<artifactId>monnaie-ci</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>monnaie</name>
 	<description>Exemple d'API Web</description>
 
