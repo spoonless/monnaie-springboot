@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>fr.epsi.atlas</groupId>
-	<artifactId>monnaie-ci</artifactId>
+	<artifactId>monnaie-springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>monnaie</name>
